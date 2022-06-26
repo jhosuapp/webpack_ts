@@ -1,4 +1,4 @@
-# Curso de TypeScript Usando Export e Import
+# Sigue los siguientes pasos:
 
 * Lo primero que debemos de hacer después de descargar y descomprimir el código es ejecutar el siguiente comando:
 
